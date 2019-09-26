@@ -1,4 +1,4 @@
-# Initial Setup - Generating SSH Key
+# Initial Setup - Generating SSH Ke
 1. Open Git Bash on Windows or Terminal on MacOS
 2. Copy and paste the text below replacing it with the email address you used to sign up for github. This will generate a new SSH key for you.   
 ```
