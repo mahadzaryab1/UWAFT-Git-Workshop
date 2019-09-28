@@ -38,3 +38,7 @@ clip < ~/.ssh/id_rsa.pub
 git config --global user.email “you@example.com”
 git config --global user.name "Your Name"
 ```
+2. If you installed VSCode, you can make it your default code editor for git
+```
+git config --global core.editor "code --wait"
+```
