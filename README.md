@@ -31,3 +31,12 @@ clip < ~/.ssh/id_rsa.pub
 ```
 2. On Github, Navigate to Settings -> SSH and GPG Keys -> New SSH Key
 3. Paste the key you copied and give your key a unique and identifiable title
+
+# Initial Setup - Global Configurations
+1. Set global configuration to include your email and name
+```
+git config --global user.email “you@example.com”
+git config --global user.name "Your Name"
+
+
+```
