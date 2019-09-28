@@ -31,3 +31,4 @@ clip < ~/.ssh/id_rsa.pub
 ```
 2. On Github, Navigate to Settings -> SSH and GPG Keys -> New SSH Key
 3. Paste the key you copied and give your key a unique and identifiable title
+4. test
