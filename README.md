@@ -22,7 +22,6 @@ eval $(ssh-agent -s)
 2. Add your SSH private key to the ssh-agent by copying and pasting the following command
 ```
 ssh-add ~/.ssh/id_rsa
-cat ~/.ssh/id_rsa.pub
 ```
 
 # Initial Setup - Adding SSH key to your Github account
