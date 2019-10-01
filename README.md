@@ -28,6 +28,7 @@ ssh-add ~/.ssh/id_rsa
 1. Copy the contents of the ssh key to your clipboard.
 ```
 clip < ~/.ssh/id_rsa.pub
+cat ~/.ssh/id_rsa.pub
 ```
 2. On Github, Navigate to Settings -> SSH and GPG Keys -> New SSH Key
 3. Paste the key you copied and give your key a unique and identifiable title
