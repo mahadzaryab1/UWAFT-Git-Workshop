@@ -43,3 +43,5 @@ git config --global user.name "Your Name"
 ```
 git config --global core.editor "code --wait"
 ```
+
+#Thank you for coming!
